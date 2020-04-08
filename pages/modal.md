@@ -1,6 +1,6 @@
 ---
 title: Modal
-slug: '/modal/'
+slug: 'modal'
 ---
 ## Modal
 
