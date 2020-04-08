@@ -4,4 +4,4 @@ slug: '/modal/'
 ---
 ## Modal
 
-<iframe src="http://localhost:9009/iframe.html?id=carousel--to-storybook" class="iframe-code"></iframe>
+<iframe src="http://localhost:9009/iframe.html?id=carousel--basic" class="iframe-code"></iframe>
