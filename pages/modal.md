@@ -4,4 +4,4 @@ slug: '/modal/'
 ---
 ## Modal
 
-<iframe src="https://deploy-preview-1020--drivy-cobalt-storybook.netlify.com/iframe.html?id=zh-documentation-modal--basic&amp;viewMode=docs" class="iframe-code"></iframe>
+<iframe src="http://localhost:9009/iframe.html?id=carousel--to-storybook" class="iframe-code"></iframe>
