@@ -1,6 +1,6 @@
 ---
 title: Homepage
-slug: /homepage-slug/
+slug: homepage-slug
 ---
 # Adspergine amat et sensit casusque unguibus
 
