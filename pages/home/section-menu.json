@@ -1,7 +1,11 @@
 [
   {
-    "page": "home/index.md",
     "title": "Section 1",
     "path": "/homepage-section-slug/"
+  },
+    {
+    "title": "Section 2",
+    "path": "/homepage-section-2-slug/"
   }
+
 ]
