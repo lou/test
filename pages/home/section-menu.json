@@ -1,10 +1,12 @@
 [
   {
     "title": "Section 1",
+    "parentSlug": "homepage-slug",
     "path": "/homepage-section-slug/"
   },
     {
     "title": "Section 2",
+    "parentSlug": "homepage-slug",
     "path": "/homepage-section-2-slug/"
   }
 ]
